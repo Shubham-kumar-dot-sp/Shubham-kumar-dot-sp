@@ -2,7 +2,7 @@
 - 👀 I have completed my bachelor's degree in Mathematics form Shiv Nadar University, UP. I’m interested in Applied Mathematics, Philosophy and Data analysis.
 - 🌱 I’m currently learning an one year certificate program in Data Science and Analytics for Business from Jigsaw Acedemy, Banglore.
 - 📫 How to reach me ...
-Email: sk596@snu.edu.in
+Email: sk596@snu.edu.in ,
        sharshubh98@gmail.com
 
 <!---
