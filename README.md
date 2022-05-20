@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Kumar.
-- 👀 I have completed my bachelor's degree in Mathematics form Shiv Nadar University, UP. I’m interested in Data Science, Applied Mathematics and statistics and Philosophy.
+- 👀 I have completed my bachelor's degree in Mathematics form Shiv Nadar University, UP. I’m interested in Data Science, Applied Mathematics, statistics and Philosophy.
 - 🌱 I’m currently learning an one year certificate program in Data Science and Analytics for Business from Jigsaw Acedemy, Banglore.
 - 📫 How to reach me ...
 Email: sk596@snu.edu.in ,
